@@ -1,0 +1,2 @@
+Github is a platform used to store and track the code and also to collaborate on that code.
+It's build on Git, which is a VCS.
